@@ -146,10 +146,13 @@
 </a>
 
 
-        <div class="card">
-            <h3>🐳 Docker</h3>
-            <p>Containerized Java WAR application with Docker.</p>
-        </div>
+        <a href="docker.html" style="text-decoration:none; color:white;">
+    <div class="card">
+        <h3>🐳 Docker</h3>
+        <p>Containerized Java WAR application with Docker.</p>
+    </div>
+</a>
+
 
         <div class="card">
             <h3>☸️ Kubernetes</h3>
