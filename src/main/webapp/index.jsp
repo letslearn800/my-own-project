@@ -138,10 +138,13 @@
     </header>
 
     <section class="cards">
-        <div class="card">
-            <h3>⚙️ CI/CD Pipeline</h3>
-            <p>Automated build and deployment using Jenkins and Maven.</p>
-        </div>
+        <a href="cicd.html" style="text-decoration:none; color:white;">
+  <div class="card">
+    <h3>⚙️ CI/CD Pipeline</h3>
+    <p>Automated build and deployment using Jenkins and Maven.</p>
+  </div>
+</a>
+
 
         <div class="card">
             <h3>🐳 Docker</h3>
